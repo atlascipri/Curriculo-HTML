@@ -1,1 +1,1 @@
-Este repositório faz parte do projeto de HTML básico. 
+Este repositório faz parte do projeto de HTML básico do curso de desenvolvedor FullStack cursado na plataforma ProgramadorBR.
